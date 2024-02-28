@@ -72,195 +72,201 @@ var simplemaps_usmap_mapdata={
     link_text: "View Website"
   },
   state_specific: {
-    HI: {
+   HI: {
       name: "Hawaii",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/hawaii"
     },
     AK: {
       name: "Alaska",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/alaska"
     },
     FL: {
       name: "Florida",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default",
-      inactive: "no"
+      url: "https://sites.google.com/view/opensource2/states/florida"
     },
     NH: {
       name: "New Hampshire",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/new-hampshire"
     },
     VT: {
       name: "Vermont",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/vermont"
     },
     ME: {
       name: "Maine",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/maine"
     },
     RI: {
       name: "Rhode Island",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/rhode-island"
     },
     NY: {
       name: "New York",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/new-york"
     },
     PA: {
       name: "Pennsylvania",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/pennsylvania"
     },
     NJ: {
       name: "New Jersey",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/new-jersey"
     },
     DE: {
       name: "Delaware",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/deleware"
     },
     MD: {
       name: "Maryland",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/maryland"
     },
     VA: {
       name: "Virginia",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/virginia"
     },
     WV: {
       name: "West Virginia",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/westvirginia"
+       },
+    MD: {
+      name: "Maryland",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "https://sites.google.com/view/opensource2/states/maryland"
     },
     OH: {
       name: "Ohio",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/ohio"
     },
     IN: {
       name: "Indiana",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/indiana"
     },
     IL: {
       name: "Illinois",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/illinois"
     },
     CT: {
       name: "Connecticut",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/connecticut"
     },
     WI: {
       name: "Wisconsin",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/wisconsin"
     },
     NC: {
       name: "North Carolina",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/north-carolina"
     },
     DC: {
       name: "District of Columbia",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/dc"
     },
     MA: {
       name: "Massachusetts",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/massachusetts"
     },
     TN: {
       name: "Tennessee",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/tennessee"
     },
     AR: {
       name: "Arkansas",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/arkansas"
     },
     MO: {
       name: "Missouri",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/missouri"
     },
     GA: {
       name: "Georgia",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/georgia"
     },
     SC: {
       name: "South Carolina",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/south-carolina"
     },
     KY: {
       name: "Kentucky",
@@ -268,168 +274,168 @@ var simplemaps_usmap_mapdata={
       color: "default",
       zoomable: "no",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/kentucky"
     },
     AL: {
       name: "Alabama",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/alabama"
     },
     LA: {
       name: "Louisiana",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/louisiana"
     },
     MS: {
       name: "Mississippi",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/mississippi"
     },
     IA: {
       name: "Iowa",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/iowa"
     },
     MN: {
       name: "Minnesota",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/minnesota"
     },
     OK: {
       name: "Oklahoma",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/oklahoma"
     },
     TX: {
       name: "Texas",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/texas"
     },
     NM: {
       name: "New Mexico",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/new-mexico"
     },
     KS: {
       name: "Kansas",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/kansas"
     },
     NE: {
       name: "Nebraska",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/nebraska"
     },
     SD: {
       name: "South Dakota",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/south-dakota"
     },
     ND: {
       name: "North Dakota",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/north-dakota"
     },
     WY: {
       name: "Wyoming",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/wyoming"
     },
     MT: {
       name: "Montana",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/montana"
     },
     CO: {
       name: "Colorado",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/colorado"
     },
     UT: {
       name: "Utah",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/utah"
     },
     AZ: {
       name: "Arizona",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/arizona"
     },
     NV: {
       name: "Nevada",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/nevada"
     },
     OR: {
       name: "Oregon",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/oregon"
     },
     WA: {
       name: "Washington",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/washington"
     },
     CA: {
       name: "California",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/california"
     },
     MI: {
       name: "Michigan",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/michigan"
     },
     ID: {
       name: "Idaho",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://sites.google.com/view/opensource2/states/idaho"
     },
     GU: {
       name: "Guam",
